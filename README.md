@@ -26,13 +26,17 @@
 <br>
 
 ## 👨‍💻 Sobre Mí
+
 Soy un profesional en formación continua, especializado en **Tecnología y Datos**. Mi perfil es versátil: puedo desarrollar soluciones de software, analizar datos complejos o gestionar procesos administrativos y de soporte técnico con eficiencia.
 
-* 🎓 **Educación:** Licenciatura en **Ciberdefensa** (En curso) & Tecnicatura en **Ciencia de Datos e IA** (Graduado). 
-* 💼 **Experiencia:** Historial comprobado en gestión administrativa (Facturación/ERP) y soporte técnico. 
-* 🚀 **Objetivo:** Integrarme a un equipo donde pueda aportar soluciones reales, ya sea optimizando la gestión diaria o asegurando la infraestructura digital. 
-* 🗣️ **Idiomas:** Español (Nativo), Inglés (A2), Chino (HSK2). 
+* **Objetivo:** Integrarme a un equipo donde pueda aportar soluciones reales, ya sea optimizando la gestión diaria o asegurando la infraestructura digital.
+* **Idiomas:** Español (Nativo), Inglés (A2), Chino (HSK2).
 
+### 🎓 Formación Académica
+* 🛡️ **Licenciatura en Ciberdefensa** | *Universidad de la Defensa Nacional* (En curso)
+* 📊 **Tec. Sup. en Ciencia de Datos e IA** | *Instituto Tecnológico de Santiago del Estero* (2024-2025)
+* 💻 **Tec. Sup. en Programación** | *Instituto Tecnológico de Santiago del Estero* (2022-2023)
+* 🔧 **Tec. en Informática Profesional y Personal** | *Escuela Técnica N°2* (2015-2020)
 ---
 
 ## 🛠️ Stack Tecnológico y Habilidades
